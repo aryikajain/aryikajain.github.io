@@ -11,7 +11,8 @@ Python | Pandas | Scikit-learn | TensorFlow | PyTorch | NLP | Deep Learning | ED
 - **Patient Feedback Sentiment Analysis** – NLP model analyzing patient reviews  
 - **Disease Prediction using ML** – Predictive modeling for common health issues  
 - **Healthcare Cost Analysis** – EDA project on healthcare & insurance data
-##Experience
+  
+## Experience
 
  Research Intern — IIT [Campus Name] (Summer Internship)
 May 2025 – July 2025
