@@ -1,4 +1,3 @@
-# aryikajain.github.io
 #  Aryika Jain | Data Science Portfolio
 
 Hi! I'm **Aryika Jain**, a final-year student in Artificial Intelligence and Machine Learning.  
